@@ -19,7 +19,7 @@ IDE- NetBeans
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/weather-forecast-web-app.git
+   git clone https://github.com/khansohailahmed/weather-forecast-web-app.git
    ```
 
 2. Navigate to the Project Directory
